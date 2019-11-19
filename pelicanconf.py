@@ -45,12 +45,12 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (
-    ('About', '/pages/about.html'),
+    ('About', 'pages/about.html'),
     ('Blog', '/category/blog.html'),
-    ('Projects','/pages/projects.html'),
+    ('Projects','pages/projects.html'),
     ('CV', '/pdf/cv_mg_academic.pdf'),
-    ('Media', '/pages/media.html'),
-    ('Contact', '/pages/contact.html')
+    ('Media', 'pages/media.html'),
+    ('Contact', 'pages/contact.html')
     )
 
 # Blogroll
