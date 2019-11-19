@@ -35,7 +35,7 @@ ARTICLE_PATHS = ['blog']
 ARTICLE_URL = 'blog/{slug}.html'
 ARTICLE_SAVE_AS = 'blog/{slug}.html'
 
-PAGE_PATHS = ['pages']	
+PAGE_PATHS = ['pages']  
 PAGE_URL = 'pages/{slug}.html'
 PAGE_SAVE_AS = 'pages/{slug}.html'
 
@@ -45,12 +45,12 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (
-    ('About', '/pages/About.html'),
+    ('About', '/pages/about.html'),
     ('Blog', '/category/blog.html'),
-    ('Projects','/pages/Projects.html'),
+    ('Projects','/pages/projects.html'),
     ('CV', '/pdf/cv_mg_academic.pdf'),
-    ('Media', '/pages/Media.html'),
-    ('Contact', '/pages/Contact.html')
+    ('Media', '/pages/media.html'),
+    ('Contact', '/pages/contact.html')
     )
 
 # Blogroll
@@ -59,7 +59,7 @@ LINKS = (('Podcast </br>"Pravidelná Dávka" ', 'https://pravidelnadavka.sk'),
 
 # Social widget
 SOCIAL = (
-		  ('LinkedIn', 'https://www.linkedin.com/in/miroslavgasparek/'),
+      ('LinkedIn', 'https://www.linkedin.com/in/miroslavgasparek/'),
           ('Twitter', 'https://twitter.com/MiroGasparek'),
           ('Github', 'https://github.com/miroslavgasparek'),
           ('Instagram', 'https://www.instagram.com/miroslav_gasparek/?hl=en'))
@@ -69,8 +69,8 @@ DEFAULT_PAGINATION = 10
 
 # Add static paths 
 STATIC_PATHS = ['images',
-				'pages',
-				'extra/CNAME', 'extra/robots.txt','extra/custom.css','pdf']
+        'pages',
+        'extra/CNAME', 'extra/robots.txt','extra/custom.css','pdf']
 
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
                        'extra/robots.txt': {'path': 'robots.txt'},
