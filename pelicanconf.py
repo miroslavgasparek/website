@@ -36,8 +36,8 @@ ARTICLE_URL = 'blog/{slug}.html'
 ARTICLE_SAVE_AS = 'blog/{slug}.html'
 
 PAGE_PATHS = ['pages']  
-PAGE_URL = 'pages/{slug}.html'
-PAGE_SAVE_AS = 'pages/{slug}.html'
+# PAGE_URL = 'pages/{slug}.html'
+# PAGE_SAVE_AS = 'pages/{slug}.html'
 
 
 # Set menu items
