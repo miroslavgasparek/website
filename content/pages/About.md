@@ -1,5 +1,6 @@
 Title: About
 Author: Miroslav Gasparek
+Slug: about
 
 I am a first-year doctoral student of Engineering Science at the University of Oxford in the research group of [Professor Antonis Papachristodoulou](http://sysos.eng.ox.ac.uk/wiki/index.php/User:Antonis). I have graduated from Imperial College London with MEng in Biomedical Engineering in 2019. My research interests lie in the fields of **synthetic biology**, **systems biology**, **control engineering**, and ** modelling of biological systems**. <br>
 

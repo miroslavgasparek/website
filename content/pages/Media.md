@@ -1,5 +1,6 @@
 Title: Media
 Author: Miroslav Gasparek
+Slug: media
 
 You can read about some of my public engagements here, especially those related to the promotion of Bioengineering and Synthetic Biology.
 

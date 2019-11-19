@@ -1,5 +1,6 @@
 Title: Projects
 Author: Miroslav Gasparek
+Slug: projects
 
 Below are some of the major research projects that I am currently working on, or projects that I have worked on in the past. Minor and independent projects can be found in the *blog* section. </br>
 
