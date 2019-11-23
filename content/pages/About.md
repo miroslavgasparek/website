@@ -12,9 +12,9 @@ The specific engineering problems that I am passionate about are:
 * Applications of Control Theory to the biological systems
 * Construction of synthetic cells
 
-I will soon write more about these (bio)engineering challenges and I will explain why they matter. You can also read my [**Blog**](http://localhost:8000/category/blog.html), where I share my thoughts, summarize what I learned from my experiences, and present some of my projects. <br>
+I will soon write more about these (bio)engineering challenges and I will explain why they matter. You can also read my [**Blog**](https://www.miroslavgasparek.com/category/blog.html), where I share my thoughts, summarize what I learned from my experiences, and present some of my projects. <br>
 
-Throughout the course of my undergraduate studies at Imperial, I took part in several interesting engineering projects at Imperial College London, California Institute of Technology and Stanford University, either as part of my curriculum, through my extracurricular activities, or during the summer research internships. You can view some of these projects in the [**Projects**](http://localhost:8000/pages/projects.html) section of this website.
+Throughout the course of my undergraduate studies at Imperial, I took part in several interesting engineering projects at Imperial College London, California Institute of Technology and Stanford University, either as part of my curriculum, through my extracurricular activities, or during the summer research internships. You can view some of these projects in the [**Projects**](https://www.miroslavgasparek.com/pages/projects.html) section of this website.
 
 Furthermore, I try to stay active in other, non-research fields. My activities include:
 
@@ -24,7 +24,7 @@ Furthermore, I try to stay active in other, non-research fields. My activities i
 
 * Free assistance with the admissions processes to the World's top universities for the talented Slovak and Czech students in the non-profit organization [**Unimak**](www.unimak.sk)
 
-To see (somewhat) more comprehensive list of my activities, check my [**CV**](http://localhost:8000/pdf/cv_mg_academic.pdf). <br>
+To see (somewhat) more comprehensive list of my activities, check my [**CV**](https://www.miroslavgasparek.com/pdf/cv_mg_academic.pdf). <br>
 
 In addition to that, I like to drink good coffee, to have meaningful conversations about things that matter, lifting weights, cooking, and playing the accordion.
 
