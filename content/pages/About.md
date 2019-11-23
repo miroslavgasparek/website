@@ -22,7 +22,7 @@ Furthermore, I try to stay active in other, non-research fields. My activities i
 
 * [**Mentoring**](https://www.leaf.sk/mentor/miroslav-gasparek/) of young students
 
-* Free assistance with the admissions processes to the World's top universities for the talented Slovak and Czech students in the non-profit organization [**Unimak**](www.unimak.sk)
+* Free assistance with the admissions processes to the World's top universities for the talented Slovak and Czech students in the non-profit organization [**Unimak**](https://unimak.sk/)
 
 To see (somewhat) more comprehensive list of my activities, check my [**CV**](https://www.miroslavgasparek.com/pdf/cv_mg_academic.pdf). <br>
 
