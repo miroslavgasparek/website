@@ -2,15 +2,15 @@ Title: About
 Author: Miroslav Gasparek
 Slug: about
 
-I am a first-year doctoral student of Engineering Science at the University of Oxford in the research group of [Professor Antonis Papachristodoulou](http://sysos.eng.ox.ac.uk/wiki/index.php/User:Antonis). I have graduated from Imperial College London with MEng in Biomedical Engineering in 2019. My research interests lie in the fields of **synthetic biology**, **systems biology**, **control engineering**, and **modelling of biological systems**.
+I am a first-year doctoral student of Engineering Science at the University of Oxford in the research group of [Professor Antonis Papachristodoulou](http://sysos.eng.ox.ac.uk/wiki/index.php/User:Antonis). I graduated from Imperial College London with MEng in Biomedical Engineering in 2019. My research interests lie at the intersection of **synthetic biology**, **systems biology**, **control engineering**, and **modelling of biological systems**.
 
 I believe that the applications of the engineering methods and utilization of the corresponding, results-focused mindset is the best way to *address* the major healthcare, economic, and environmental challenges of our times. And I think that engineering biology is also the best way to *learn* about living systems and to understand ourselves better. Because, as Richard Feynman expressed it nicely, *"What I cannot create, I do not understand."*
 
 The specific engineering problems that I am passionate about are:
 
-* Design of the optimal controllers in the synthetic biomolecular feedback systems
-* Applications of Control Theory to the biological systems
-* Construction of synthetic cells
+* **Design of the optimal controllers in the synthetic biomolecular feedback systems**
+* **Applications of Control Theory to the biological systems**
+* **Construction of synthetic cells**
 
 I will soon write more about these (bio)engineering challenges and I will explain why they matter. You can also read my [**Blog**](https://www.miroslavgasparek.com/category/blog.html), where I share my thoughts, summarize what I learned from my experiences, and present some of my projects. <br>
 
