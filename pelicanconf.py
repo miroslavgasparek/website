@@ -48,7 +48,7 @@ MENUITEMS = (
     ('About','/pages/about.html'),
     ('Blog','/category/blog.html'),
     ('Projects','/pages/projects.html'),
-    ('Publications','/pages/publications.html'),
+    ('Publications','/pages/Publications.html'),
     ('CV','/pages/CV.html'),
     ('Media','/pages/media.html'),
     ('Contact','/pages/contact.html')
