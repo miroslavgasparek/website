@@ -4,6 +4,10 @@ Slug: media
 
 You can read about some of my public engagements here, especially those related to the promotion of Bioengineering and Synthetic Biology.
 
+## 2020
+
+April 2020: A discusion with Stefan Hrib and his online talk-show ".pod Lampou" about mathematical and computational modelling of COVID-19 spread in Slovakia. (*Slovak*) [**video**](https://www.youtube.com/watch?v=1B89SaY62bU) [**interview**](https://www.tyzden.sk/rozhovory/63933/vieme-hadzat-kockou/)
+
 ## 2019
 
 * October 2019: An interview about the significance of Bioengineering, Synthetic Biology, my current research, and the future career plans for the science popularization portal *"Science at your reach"* supported by the Slovak Department of Education, Science, Research, and Sport. (*Slovak*) [**link**](https://vedanadosah.cvtisr.sk/doktorand-z-oxfordu-na-slovensku-by-som-chcel-rozvijat-synteticku-biologiu)
