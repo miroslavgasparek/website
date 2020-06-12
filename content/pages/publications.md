@@ -1,6 +1,6 @@
 Title: Publications
 Author: Miroslav Gasparek
-Slug: publications
+Slug: Publications
 
 ## 2020
 
