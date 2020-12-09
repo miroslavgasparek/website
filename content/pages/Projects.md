@@ -6,16 +6,18 @@ Below are some of the major research projects that I am currently working on, or
 
 **Current Research & Engineering Projects:**
 
-* *(Doctoral research topics)* Computational and experimental design of the biomolecular feedback control systems using the methods of control engineering at the University of Oxford. (Oct 2019 - present) <br>
-*Supervisor: Professor Antonis Papachristodoulou*
+* *(Doctoral research)* A control theory approach to design and  analyse synthetic gene circuit. (Oct 2019 - present) <br>
+*Supervisors: Professor Antonis Papachristodoulou, Professor Harrison Steel*
 
-* *(Masters thesis)* Using the reinforcement learning for the design of the optimal strategies for eczema treatment at Imperial College London. (Oct 2018 - present) <br> 
-*Supervisor: Dr. Reiko Tanaka* *(In progress)*
 
 **Some Past Research & Engineering projects:**
 
-* Construction and training of the deep neural network that can perform matching, verification, and retrieval tasks on the noisy HPatches (Holography patches) data. Part of the coursework for the course EE3-25 Deep Learning that I took at Imperial College London in the Spring of 2019.
+* A stochastic, agent-based model of the COVID-19 spread in Slovakia and analysis of the impact of non-pharmacological interventions on disease dynamics for the Institute of Health Policies at the Slovak Ministry of Health. (Mar 2020 - May 2020) [**Preprint**](https://www.medrxiv.org/content/10.1101/2020.05.11.20096362v1)
 
+* *(Masters thesis)* Using the reinforcement learning for the design of the optimal strategies for eczema treatment at Imperial College London. (Oct 2018 - Jun 2019) <br> 
+*Supervisor: Dr. Reiko Tanaka*
+
+* Construction and training of the deep neural network that can perform matching, verification, and retrieval tasks on the noisy HPatches (Holography patches) data. Part of the coursework for the course EE3-25 Deep Learning that I took at Imperial College London in the Spring of 2019. <br>
 *Course Leader: Dr. Krystian Mikolajczyk* [**Final Report**](/pdf/deep_learning_cw.pdf) [**GitHub Repo**](https://github.com/miroslavgasparek/DeepLearningCoursework)
 
 * Modification of the cloning capability of the plasmid vectors for the high-throughput protein-protein interaction assay at Stanford University. (July 2018 - September 2018) <br> 

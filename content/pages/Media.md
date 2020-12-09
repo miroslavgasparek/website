@@ -6,7 +6,11 @@ You can read about some of my public engagements here, especially those related 
 
 ## 2020
 
-April 2020: A discusion with Stefan Hrib and his online talk-show ".pod Lampou" about mathematical and computational modelling of COVID-19 spread in Slovakia. (*Slovak*) [**video**](https://www.youtube.com/watch?v=1B89SaY62bU) [**interview**](https://www.tyzden.sk/rozhovory/63933/vieme-hadzat-kockou/)
+* September 2020: An interview for the Slovak popular science magazine "Quark" about synthetic biology, its significance, and thre synthetic cells. (*Slovak*) [**interview**](https://www.quark.sk/biologicke-lego/)
+
+* September 2020: A discusion with Stefan Hrib in his online talk-show ".pod Lampou" about brain-drain in Slovakia. (*Slovak*) [**video**](https://www.youtube.com/watch?v=nHaP1XCELe0&t=509s)
+
+* April 2020: A discusion with Stefan Hrib in his online talk-show ".pod Lampou" about mathematical and computational modelling of COVID-19 spread in Slovakia. (*Slovak*) [**video**](https://www.youtube.com/watch?v=1B89SaY62bU) [**interview**](https://www.tyzden.sk/rozhovory/63933/vieme-hadzat-kockou/)
 
 ## 2019
 
