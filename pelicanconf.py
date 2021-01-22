@@ -95,6 +95,9 @@ PLUGINS = ['i18n_subsites','liquid_tags.img', 'liquid_tags.video',
 # Set the mark-ups
 MARKUP = ('md','ipynb')
 
+# Enable metacell globally 
+IPYNB_USE_METACELL = True
+
 # Ignore files as needed
 IGNORE_FILES = [".ipynb_checkpoints"]  
 
@@ -103,11 +106,6 @@ LOAD_CONTENT_CACHE = False
 
 # Delete output directory
 DELETE_OUTPUT_DIRECTORY = False
-
-
-# Use the metadata in the notebook
-IPYNB_USE_METACELL = True
-
 
 # Set About Me sidebar 
 SHOW_ABOUTME = True
